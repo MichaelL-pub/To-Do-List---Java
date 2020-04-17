@@ -1,1 +1,31 @@
-asdfasdfasdfasdfasdfasdfasdf
+
+<head>Add images for buttons in place of text
+<complete>y
+<body>Remove the text of buttons and replace with images that show the purpose of the button.</body>
+<head>Format ticket displays
+<complete>y
+<body>Create proper format to tickets so screen area is set for each ticket rather than divided</body>
+<head>Add completed/incomplete sections
+<complete>y
+<body>create a complete and incomplete tab to display tickets in their respective states.</body>
+<head>Add a delete file button
+<complete>y
+<body>add delete file button to topmost toolbar that creates a list dialog to choose file to be deleted.</body>
+<head>Add dialog when program opens for user to choose a working directory
+<complete>y
+<body>when program initializes add a option for user to choose a directory or use a default one</body>
+<head>Fix header text moving when text area is typed in
+<complete>y
+<body>when a description is typed in the header label text moves to the right</body>
+<head>add a change directory function
+<complete>y
+<body>create a button to allow user to change directory</body>
+<head>add descriptions for buttons on mouseover
+<complete>y
+<body>add text to describe button function when user hovers over a button</body>
+<head>add label for current file
+<complete>y
+<body>add label above incomplete/complete sections</body>
+<head>Properly align ticket toolbar and file name label
+<complete>y
+<body>align ticket toobar to the left and file name label to center</body>

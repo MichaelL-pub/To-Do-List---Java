@@ -1,3 +1,11 @@
+/*
+ * @Michael Leszczynski
+ * 
+ * Class to hold ticket items 
+ * consists header String for ticket name, boolean isComplete to flag if ticket is complete and String desc for ticket description input from user
+ * 
+ * contains getters setters and constructors for ticket items
+ */
 package todolist;
 
 public class Ticket {
