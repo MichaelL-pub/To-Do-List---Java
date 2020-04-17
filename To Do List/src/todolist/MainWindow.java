@@ -1,3 +1,8 @@
+/*
+ * @Michael Leszczynski
+ * To Do List program that allows you to generate tickets for jobs than need to be done and mark them complete once they are finished
+ * Uses Java Swing as a GUI
+ */
 package todolist;
 
 import java.awt.EventQueue;
